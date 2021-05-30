@@ -1,0 +1,20 @@
+{
+  "name": "17.8",
+  "version": "1.0.0",
+  "description": "404",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	  "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PawelZurawka/17.7.git"
+  },
+  "author": "Paweł",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PawelZurawka/17.7/issues"
+  },
+  "homepage": "https://github.com/PawelZurawka/17.7#readme"
+}
